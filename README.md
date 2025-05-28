@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### 📊 most used languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamnda&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamnda&layout=compact&theme=nightowl)
