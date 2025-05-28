@@ -1,5 +1,6 @@
-## Hi there 👋
+## welcome!! ⋆𐙚₊˚⊹♡
 
+I'm Amanda, a Systems Design Engineering student studying at the University of Waterloo. I strive for meaningful work that creates real impact
 <!--
 **aamnda/aamnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 most used languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamnda&layout=compact&theme=radical)
