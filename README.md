@@ -4,8 +4,11 @@ I'm Amanda, a Systems Design Engineering student studying at the University of W
 
 I'm currently looking for Fall 2025 Internships 
 
+
 ⊹ let’s connect!
+
 📫 Reach me: 
+
 a222xu@uwaterloo.ca
 https://www.linkedin.com/in/xu-amanda/
 
