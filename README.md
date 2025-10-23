@@ -8,8 +8,6 @@ I'm Amanda, a Systems Design Engineering student studying at the University of W
 📫 Reach me: 
 a222xu@uwaterloo.ca
 
-https://www.linkedin.com/in/xu-amanda/
-
 
 <!--
 **aamnda/aamnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
